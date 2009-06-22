@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+N° 094-2009-GRJ/CR
+EL PRESIDENTE DEL CONSEJO
+REGIONAL JUNÍN,
+El Consejo Regional de Junín en Sesión Ordinaria celebrada a los 13 días del mes de abril de 2009, en la Sala de Sesiones de la Municipalidad Distrital de Janjaillo, Provincia de Jauja, de conformidad con lo previsto en la Constitución Política del Perú; Ley de Bases de la Descentralización; Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales sus modificatorias y demás Normas Complementarias.
+CONSIDERANDO:
+Que, el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, señala que es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos materia de su competencia y funciones del Gobierno Regional;
+Que, la Ordenanza Regional Nº 018-GRJ/CR, de 22 de febrero de 2008, aprueba el Estatuto del Consejo de Coordinación Regional – Junín, que consta de cuatro (4) capítulos y quince (15) artículos;
+Que, mediante Oficio Nº 057-2009-GRJ-GRPPAT/ SGCTP, el Gerente Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, Econ. Eduardo Muñoz del Barco, remite el anteproyecto para la modificación del Estatuto del Consejo de Coordinación Regional Junín – CONCOREJ;
+Que, el tercer párrafo del artículo 4º de la Ley Nº 28056, Ley Marco de del presupuesto participativo, prescribe que para el desarrollo del proceso, los consejos de coordinación regionales y locales se constituyen, conforman su directiva, elaboran y aprueban sus estatutos y sus planes de trabajo, dentro del marco de sus respectivas leyes y las normas que para regular este proceso se expidan;
+Que, el tercer párrafo del artículo 11º en concordancia con el artículo 11ºA, de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, señalan que el Consejo de Coordinación Regional es un órgano consultivo y de coordinación del gobierno regional con las municipalidades. Está integrado por los alcaldes provinciales y por los representantes de la sociedad civil, con las funciones y atribuciones que le señala la presente Ley. Está conformado por el Presidente Regional quien lo preside, pudiendo delegar tal función al Vicepresidente Regional; Los Alcaldes Provinciales de la Región; y los representantes de las organizaciones de la sociedad civil;
+Que, de conformidad con las atribuciones conferidas por los artículos 9º, 10º, 11º, 15º y 38º de la Ley Nº 27867, Orgánica de Gobiernos Regionales sus modificatorias; y su Reglamento Interno, el Consejo Regional ha aprobado la siguiente:
+“ORDENANZA REGIONAL QUE DEROGA LA ORDENANZA REGIONAL Nº 018-GRJ/CR”
