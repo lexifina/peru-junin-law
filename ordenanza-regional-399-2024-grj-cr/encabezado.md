@@ -1,0 +1,27 @@
+CONSEJO REGIONAL
+ORDENANZA REGIONAL
+Nº 399-2024-GRJ/CR
+VISTO:
+Dictamen N°001-2024-GRJ-CPEyC, de fecha 14.06.2024.
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191º y 192º de la Constitución Política del Perú modificada por Ley de Reforma Constitucional Nº 27680; en la Ley de Bases de la Descentralización, Ley Nº 27783; en la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias - Ley Nº 27902, Ley Nº 28013, Ley Nº 28926, Ley Nº 28961, Ley Nº 28968, Ley Nº 29053 y demás normas complementarias y;
+CONSIDERANDO:
+Que, el artículo 194° de la Constitución Política del Perú, concordante con el artículo 2 de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, establece que los órganos de gobierno local tienen autonomía política, económica y administrativa en asuntos de su competencia, constituyendo, para su administración económica y financiera, un Pliego Presupuestal;
+Que, el Gobierno Nacional coordina el cumplimiento de la ejecución por los Gobiernos Regionales de lo que les competa de las políticas y programas señalados; y promueven una cultura de paz e igualdad de oportunidades;
+Que, el artículo 1 de la Constitución Política del Perú establece que la defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y el Estado; y en concordancia con sus numerales 1, 2 y 19 del artículo 2 de la referida Norma nacional.
+Que, en el artículo 48 de la Constitución Política del Perú, establece que son idiomas oficiales el castellano y, en las zonas donde predominen, también lo son el quechua, el aimara y las demás lenguas aborígenes, según la ley;
+Que, la Ley N° 29735, precisa el alcance de los derechos y garantías individuales y colectivas que, en materia lingüística, se establecen en el artículo 48 de la Constitución Política del Perú, entre otras disposiciones, el derecho de toda persona a usar su lengua originaria en los ámbitos público y privado, el derecho a ser atendida en su lengua materna en los organismos o instancias estatales, y a gozar y disponer de los medios de traducción directa o inversa que garanticen el ejercicio de sus derechos en todo ámbito;
+Que, el artículo 9 de la Ley N° 29735, establece que son idiomas oficiales, además del castellano, las lenguas originarias en los distritos, provincias o regiones en donde predominen, conforme a lo consignado en el Registro Nacional de Lenguas Indígenas u Originarias
+Que, de conformidad con los literales a), b), c), f) y g) del numeral 1 del artículo 8 de la Ley N° 29565, Ley de creación del Ministerio de Cultura, precisa que se coordinarán acciones con los gobiernos regionales orientadas a prestar apoyo para promover las manifestaciones culturales a nivel regional y promover el desarrollo cultural a través del diálogo intercultural y el reconocimiento de la diversidad cultural entre los peruanos y para la protección de la diversidad biológica y los conocimientos colectivos de los pueblos indígenas u originarios;
+Que, el artículo 47º del Texto Único Ordenado de la Ley Nº27444, establece que las autoridades administrativas deben actuar aplicando un enfoque intercultural, coadyuvando a la generación de un servicio con pertinencia cultural;
+Que, el artículo 4 del Reglamento de la Ley N° 29735, aprobado mediante Decreto Supremo N° 004-2016-MC, establece que el Ministerio de Cultura es el órgano rector en materia de cultura y responsable de garantizar el cumplimiento de los derechos lingüísticos en sus dimensiones individual y colectiva;
+Que, mediante Decreto Supremo N°001-2023-MC, se aprueban los “Lineamientos para incorporar el enfoque intercultural en la prestación de servicios públicos”;
+Que, con Oficio Nº2625-2023-DDC-JUN/MC, de fecha 13.10.2023, la Dirección Desconcentrada de Cultura de Junín, remite el proyecto de Ordenanza Regional en materia de interculturalidad;
+Que, mediante Informe N° 073-2024-GRJ-ORAJ, de fecha 06.03.2024, Oficina de Asesoría Jurídica, concluye y opina, que resulta procedente la aprobación del proyecto de Ordenanza Regional;
+Que, mediante Informe Técnico Nº 04-2024-GRJ-GRDS/SGPPO de fecha 09.04.2024, el Sub Gerente de Población y Pueblos Originarios de la Gerencia Regional de Desarrollo Social, declara procedente la continuidad de trámite en las instancias del caso, para su aprobación mediante Ordenanza Regional;
+Que, mediante Informe Nº20-2024-GRJ/GR, de fecha 18.04.2024 el Gobernador Regional, remite el proyecto de Ordenanza Regional, al presidente del Consejo Regional de Junín, a fin de que instruya el trámite que corresponde; Que, estando a las consideraciones expuestas, y al amparo de las facultades conferidas en la Constitución Política del Estado, modificada por la Ley N°27680, Ley Nº27783 - Ley de Bases de Descentralización, Ley N°27867 - Ley Orgánica de los Gobiernos Regionales y sus modificatorias, y el Dictamen N°001-2024-GRJ-CPEyC, de la Comisión Permanente de Educación y Cultura, el cual después de un análisis y debate correspondiente, fue sometido a votación, siendo aprobado por UNANIMIDAD, lo siguiente;
+“ORDENANZA REGIONAL QUE PROMUEVE
+LA INCORPORACIÓN DEL ENFOQUE
+INTERCULTURAL; EL USO, PRESERVACIÓN, DESARROLLO, RECUPERACIÓN, FOMENTO Y DIFUSIÓN DE LAS LENGUAS INDÍGENAS U ORIGINARIAS, ASÍ COMO LA PROMOCIÓN DE LA DIVERSIDAD CULTURAL PARA LA PREVENCIÓN Y SANCIÓN DEL RACISMO, LA DISCRIMINACIÓN
+ÉTNICO-RACIAL Y LA PROMOCIÓN DE DERECHOS DEL PUEBLO AFROPERUANO
+EN LA REGIÓN JUNÍN”
