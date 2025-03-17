@@ -1,0 +1,17 @@
+CONSEJO REGIONAL
+ORDENANZA REGIONAL
+Nº 410-2024-GRJ/CR
+VISTO:
+Dictamen N° 04-2024-GRJ-CR/CPEC, de fecha 17 de diciembre de 2024
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191º y 192º de la Constitución Política del Perú modificada por Ley de Reforma Constitucional Nº 27680; en la Ley de Bases de la Descentralización, Ley Nº 27783; en la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias - Ley Nº 27902, Ley Nº 28013, Ley Nº 28926, Ley Nº 28961, Ley Nº 28968, Ley Nº 29053 y demás normas complementarias y;
+CONSIDERANDO:
+Que, el Artículo 191º de la Constitución Política del Estado, modificado por la Ley Nº 27680, Ley de Reforma Constitucional del Capítulo XIV del Título IV, sobre Descentralización, concordante con el artículo 2° de la Ley Nº 27867.
+Que, el artículo 151° del D.S. Nº011-1012-ED, Reglamento de la Ley General de Educación, define el Proyecto Educativo Regional como el principal instrumento de gestión educativa regional. Se elabora en el marco del Proyecto Educativo Nacional y del Plan de Desarrollo Regional Concertado, con la participación democrática de la sociedad organizada.
+Que, el artículo 152° del citado Reglamento establece que la Dirección Regional de Educación es responsable de la elaboración, implementación, seguimiento y evaluación del Proyecto Educativo Regional con la participación de los integrantes del Consejo Participativo Regional de Educación. A continuación, indica que “El Gobierno Regional aprueba, publica, monitorea y evalúa el Proyecto Educativo Regional, de acuerdo con indicadores establecidos.
+Que, mediante R.D.R. N° 01509-03012-2024-DREJ de fecha 20.11.2024, la Dirección Regional de Educación de Junín aprueba el Informe N° 081-2024-GRJ/DREJ-DGP-UMA a través del cual el Equipo Técnico Regional conformado para la reformulación del PER Junín al 2032, hace conocer la culminación de dicho documento adjuntando el mismo y a la vez remite todo lo actuado al GORE Junín para su aprobación correspondiente.
+Que, se cuenta con el Informe Técnico N° 088-GRJ/ GRDS de fecha 05.12.2024, emitido por la Gerente Regional de Desarrollo Social y el Informe Legal N° 354-2024-GRJ-ORAJ de fecha 11.12.2024, a través de los cuales opinan favorablemente y concluyen con la pertinencia de la propuesta, recomendando al mismo tiempo se derive al pleno del Consejo Regional, para aprobarlo mediante Ordenanza Regional.
+Que, el Proyecto Educativo Regional Junín al 2036 “Construyendo caminos para el buen vivir en Junín” expresa las expectativas de las nueve provincias de la región Junín y está llamada a convertirse en un instrumento de planificación y marco orientador para el diseño, implementación, evaluación y seguimiento de los objetivos y acciones estratégicas para el sistema educativo en Junín, los mismos que serán desarrollados en todas las instancias de gestión educativa y otras instancias del Estado y sociedad organizada.
+Que, estando a las consideraciones expuestas, a lo acordado y aprobado en Sesión Ordinaria del Consejo Regional de Junín de fecha 17 de diciembre 2024 y el Dictamen N° 04-2024-GRJ-CR/CPEC, presentado por la Comisión Permanente de Educación y Cultura; el cual después de un análisis y debate correspondiente, fue sometido a votación, siendo aprobado por UNANIMIDAD la siguiente;
+“ORDENANZA REGIONAL QUE APRUEBA EL PROYECTO EDUCATIVO REGIONAL JUNÍN AL 2036 “CONSTRUYENDO CAMINOS PARA EL BUEN
+VIVIR EN JUNÍN”
