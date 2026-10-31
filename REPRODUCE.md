@@ -201,20 +201,93 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-165-2013-grj-cr` | Ordenanza Regional N° 165-2013-GRJ/CR: Aprueban el Texto Único de Procedimientos Administrativos - TUPA de la Dirección Regional de Energía y Minas | 1 | 2013-10-17 to 2013-10-17 |
 | `ordenanza-regional-164-2013-grj-cr` | Ordenanza Regional N° 164-2013-GRJ/CR: Aprueban el Cuadro de Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo Junín | 1 | 2013-10-16 to 2013-10-16 |
 | `ordenanza-regional-139-2012-grj-cr` | Ordenanza Regional N° 139-2012-GRJ/CR: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) de la Sede del Gobierno Regional Junín | 1 | 2012-09-04 to 2012-09-04 |
+| `ordenanza-regional-348-grj-cr` | Ordenanza Regional N° 348-GRJ/CR: Ordenanza Regional que aprueba el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones Junín | 1 | 2021-10-29 to 2021-10-29 |
+| `ordenanza-regional-345-2021-grj-cr` | Ordenanza Regional N° 345-2021-GRJ/CR: Ordenanza que rechaza el inicio de clases presenciales y semi presenciales del servicio educativo del año escolar 2021 en la Región Junin en salvaguarda de la salud de la comunidad educativa y la población de nuestra jurisdicción | 1 | 2021-06-24 to 2021-06-24 |
+| `ordenanza-regional-332-grj-cr` | Ordenanza Regional N° 332-GRJ/CR: Aprueban el “Reglamento de Aplicación de la Zonificación Ecológica Económica del Departamento de Junín" | 1 | 2020-11-13 to 2020-11-13 |
+| `ordenanza-regional-328-grj-cr` | Ordenanza Regional N° 328-GRJ/CR: Modifican el Reglamento Interno del Consejo Regional del Gobierno Regional Junín | 1 | 2020-06-27 to 2020-06-27 |
+| `ordenanza-regional-319-grj-cr` | Ordenanza Regional N° 319-GRJ/CR: Aprueban modificación parcial del Reglamento de Organización y Funciones - ROF de la Dirección Regional de Salud Junín | 1 | 2020-02-03 to 2020-02-03 |
+| `ordenanza-regional-312-grj-cr` | Ordenanza Regional N° 312-GRJ/CR: Ordenanza Regional que declara la institucionalización del Día 6 de Agosto como día cívico y feriado no laborable en la Región Junín en conmemoración a la Batalla de Junín | 1 | 2019-08-03 to 2019-08-03 |
+| `ordenanza-regional-303-grj-cr` | Ordenanza Regional N° 303-GRJ/CR: Aprueban institucionalización del Aniversario de creación del departamento de Junín el 13 de setiembre, así como el Día de la Mujer el 8 de marzo de cada año, declarando feriado no laborable en el ámbito de la Región Junín | 1 | 2019-03-14 to 2019-03-14 |
+| `ordenanza-regional-298-grj-cr` | Ordenanza Regional N° 298-GRJ/CR: Modifican el Artículo Primero de la Ordenanza Regional N° 243-GRJ/CR | 1 | 2019-02-14 to 2019-02-14 |
+| `ordenanza-regional-292-grj-cr` | Ordenanza Regional N° 292-GRJ/CR: Ordenanza que aprueba los Instrumentos de Gestión del Área de Conservación Regional Huaytapallana | 1 | 2018-07-20 to 2018-07-20 |
+| `ordenanza-regional-290-grj-cr` | Ordenanza Regional N° 290-GRJ/CR: Ordenanza Regional que ratifica el Plan Regional de Seguridad Ciudadana y de Convivencia Social Junín 2018 | 1 | 2018-07-18 to 2018-07-18 |
+| `ordenanza-regional-285-grj-cr` | Ordenanza Regional N° 285-GRJ/CR: Aprueban el Reglamento del Comité Ejecutivo Regional con Oportunidades | 1 | 2018-02-24 to 2018-02-24 |
+| `ordenanza-regional-229-grj-cr` | Ordenanza Regional N° 229-GRJ/CR: Aprueban la Constitución de la “Mancomunidad Regional Pacífico Centro Amazónica” y el Estatuto | 1 | 2016-02-21 to 2016-02-21 |
+| `ordenanza-regional-197-grj-cr` | Ordenanza Regional N° 197-GRJ/CR: Declaran al "Señor de Muruhuay de la Diócesis de Tarma" como Patrono de la Región Junín | 1 | 2015-06-14 to 2015-06-14 |
+| `ordenanza-regional-199-grj-cr` | Ordenanza Regional N° 199-GRJ/CR: Ordenanza Regional que aprueba el Cuadro de Asignación de Personal - CAP Provisional de la Red de Salud de Satipo y Hospital "Manuel Higa Arakaki" - Satipo | 1 | 2015-06-05 to 2015-06-05 |
+| `ordenanza-regional-189-2014-grj-cr` | Ordenanza Regional N° 189-2014-GRJ/CR: Ordenanza Regional que aprueba la Estrategia Regional del Cambio Climático de la Región Junín | 1 | 2015-05-21 to 2015-05-21 |
+| `ordenanza-regional-190-2014-grj-cr` | Ordenanza Regional N° 190-2014-GRJ/CR: Ordenanza Regional que aprueba la Estrategia Regional de Diversidad Biológica al 2021 y Plan de Acción 2015-2018 de la Región Junín | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-195-2014-grj-cr` | Ordenanza Regional N° 195-2014-GRJ/CR: Ordenanza Regional que Declara de Necesidad Pública e Interés Regional  la Creación  del Área de Conservación Regional "Cordillera San Cristóbal de Pucuta (Toldopampa)" | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-194-2014-grj-cr` | Ordenanza Regional N° 194-2014-GRJ/CR: Ordenanza Regional que aprueba los Instrumentos de Gestión Ambiental: Política, Plan de Acción y Agenda Ambiental Regional de la Región Junín | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-172-2013-grj-cr` | Ordenanza Regional N° 172-2013-GRJ/CR: Establecen las unidades responsables de la fiscalización, de los procedimientos y de la aplicación de las sanciones por las infracciones a la Ley de Seguridad y Salud en el Trabajo de los Estibadores Terrestres y Transportistas Manuales. | 1 | 2013-12-27 to 2013-12-27 |
+| `ordenanza-regional-170-2013-grj-cr` | Ordenanza Regional N° 170-2013-GRJ/CR: Aprueban el Plan Regional de Igualdad de Género 2013-2017 de la Región Junín | 1 | 2013-12-20 to 2013-12-20 |
+| `ordenanza-regional-166-2013-grj-cr` | Ordenanza Regional N° 166-2013-GRJ/CR: Aprueban Cuadro de Asignación para Personal -CAP de la Dirección Regional de Energía y Minas | 1 | 2013-12-08 to 2013-12-08 |
+| `ordenanza-regional-169-2013-grj-cr` | Ordenanza Regional N° 169-2013-GRJ/CR: Aprueban el Cuadro de Asignación para Personal - CAP de la Dirección Regional de la Producción | 1 | 2013-11-29 to 2013-11-29 |
+| `ordenanza-regional-167-2013-grj-cr` | Ordenanza Regional N° 167-2013-GRJ/CR: Declaran de Necesidad e Interés Regional el Desarrollo  y Administración  del Gran  Aeródromo Wanka | 1 | 2013-10-16 to 2013-10-16 |
+| `ordenanza-regional-160-2013-grj-cr` | Ordenanza Regional N° 160-2013-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Dirección Regional de Comercio Exterior y Turismo Junín | 1 | 2013-06-19 to 2013-06-19 |
+| `ordenanza-regional-161-2013-grj-cr` | Ordenanza Regional N° 161-2013-GRJ/CR: Modifican la Ordenanza Regional N° 139-2012-GRJ/CR, que aprueba el Texto Único de Procedimientos Administrativos - TUPA de la Sede del Gobierno Regional Junín | 1 | 2013-06-11 to 2013-06-11 |
+| `ordenanza-regional-162-2013-grj-cr` | Ordenanza Regional N° 162-2013-GRJ/CR: Aprueban el  Cuadro para Asignación de Personal de la Dirección Regional de Salud | 1 | 2013-06-10 to 2013-06-10 |
+| `ordenanza-regional-159-2013-grj-cr` | Ordenanza Regional N° 159-2013-GRJ/CR: Derogan artículo tercero de la Ordenanza Regional N° 108-2011-GRJ/CR que declara de interés, utilidad pública y de necesidad regional la inversión privada, estableciendo compromisos para el desarrollo de sus actividades en la Región Junín. | 1 | 2013-05-25 to 2013-05-25 |
+| `ordenanza-regional-157-2013-grj-cr` | Ordenanza Regional N° 157-2013-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Dirección Regional de Salud Junín y sus Unidades Ejecutoras | 1 | 2013-05-10 to 2013-05-10 |
+| `ordenanza-regional-158-2013-grj-cr` | Ordenanza Regional N° 158-2013-GRJ/CR: Declaran el 2013 como "Año de la Promoción de los Derechos Culturales y del Fomento Agrario para los Pueblos de Junín" | 1 | 2013-03-18 to 2013-03-18 |
+| `ordenanza-regional-156-2012-grj-cr` | Ordenanza Regional N° 156-2012-GRJ/CR: Aprueban actualización del Plan Regional Concertado de Salud, Junín 2013-2021 | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-155-2012-grj-cr` | Ordenanza Regional N° 155-2012-GRJ/CR: Disponen la "Institucionalización del Programa Regional de Voluntariado" en el ámbito de la Región Junín, y crean el Registro Regional del Programa de Voluntarios | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-153-2012-grj-cr` | Ordenanza Regional N° 153-2012-GRJ/CR: Declaran el 23 de junio de todos los años como "Día de la Conmemoración en honor de Don Juan Santos Atahualpa" | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-154-2012-grj-cr` | Ordenanza Regional N° 154-2012-GRJ/CR: Declaran de interés regional la atención e implementación del "Programa Junín con Oportunidades" | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-152-2012-grj-cr` | Ordenanza Regional N° 152-2012-GRJ/CR: Modifican la Ordenanza N° 081-2008-GRJ/CR que crea el Instituto Regional del Café - IRC | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-149-2012-grj-cr` | Ordenanza Regional N° 149-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2013-01-01 to 2013-01-01 |
+| `ordenanza-regional-150-2012-grj-cr` | Ordenanza Regional N° 150-2012-GRJ/CR: Aprueban Cuadro de Asignación para Personal de la Dirección Regional de Vivienda, Construcción y Saneamiento - Junín | 1 | 2012-12-31 to 2012-12-31 |
+| `ordenanza-regional-151-2012-grj-cr` | Ordenanza Regional N° 151-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Energía y Minas | 1 | 2012-12-18 to 2012-12-18 |
+| `ordenanza-regional-148-2012-grj-cr` | Ordenanza Regional N° 148-2012-GRJ/CR: Aprueban la asignación del cinco por ciento a las víctimas de la violencia política en los procesos de selección de personal del Gobierno Regional Junín. | 1 | 2012-12-13 to 2012-12-13 |
+| `ordenanza-regional-147-2012-grj-cr` | Ordenanza Regional N° 147-2012-GRJ/CR: Aprueban Institucionalización del Concurso de Cuentos, Leyendas, Mitos y Fábulas de la Región Junín que se llevará cada año en el ámbito de la Dirección Regional de Educación | 1 | 2012-12-09 to 2012-12-09 |
+| `ordenanza-regional-146-2012-grj-cr` | Ordenanza Regional N° 146-2012-GRJ/CR: Declaran de prioridad y como Política de Gestión Pública Regional la Lucha contra la Corrupción para el desarrollo regional y crean el Consejo Regional Anticorrupción de la Región Junín | 1 | 2012-12-09 to 2012-12-09 |
+| `ordenanza-regional-144-2012-grj-cr` | Ordenanza Regional N° 144-2012-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Aldea Infantil  "El Rosario" | 1 | 2012-11-23 to 2012-11-23 |
+| `ordenanza-regional-145-2012-grj-cr` | Ordenanza Regional N° 145-2012-GRJ/CR: Autorizan la emisión de Certificados contra Accidentes de Tránsito - CAT, y amplía la cobertura a las Asociaciones de Fondos contra Accidentes de Tránsito - AFOCATs | 1 | 2012-11-18 to 2012-11-18 |
+| `ordenanza-regional-141-2012-grj-cr` | Ordenanza Regional N° 141-2012-GRJ/CR: Declaran de interés y necesidad pública regional la atención prioritaria especializada a personas afectadas por la contaminación ambiental, en la provincia de Yauli y otras afectadas de la Región Junín | 1 | 2012-09-16 to 2012-09-16 |
+| `ordenanza-regional-137-2012-grj-cr` | Ordenanza Regional N° 137-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Aldea Infantil  "El Rosario" | 1 | 2012-09-01 to 2012-09-01 |
+| `ordenanza-regional-136-2012-grj-cr` | Ordenanza Regional N° 136-2012-GRJ/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Vivienda, Construcción y Saneamiento - Junín | 1 | 2012-08-19 to 2012-08-19 |
+| `ordenanza-regional-135-2012-grj-cr` | Ordenanza Regional N° 135-2012-GRJ/CR: Aprueban el Cuadro de Asignación de Personal - CAP de la Dirección Regional de Transportes y Comunicaciones Junín | 1 | 2012-07-28 to 2012-07-28 |
+| `ordenanza-regional-134-2012-grj-cr` | Ordenanza Regional N° 134-2012-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Sede del Gobierno Regional Junín | 1 | 2012-07-23 to 2012-07-23 |
+| `ordenanza-regional-129-2012-grj-cr` | Ordenanza Regional N° 129-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones - Junín | 1 | 2012-04-30 to 2012-04-30 |
+| `ordenanza-regional-130-2012-grj-cr` | Ordenanza Regional N° 130-2012-GRJ/CR: Aprueban Reglamento Interno del Consejo Regional del Gobierno Regional Junín | 1 | 2012-04-30 to 2012-04-30 |
+| `ordenanza-regional-125-2012-grj-cr` | Ordenanza Regional N° 125-2012-GRJ/CR: Aprueban la institucionalización de la Campaña del Bueno Inicio del Año Escolar en la Región Junín | 1 | 2012-02-24 to 2012-02-24 |
+| `ordenanza-regional-124-2012-grj-cr` | Ordenanza Regional N° 124-2012-GRJ/CR: Disponen medidas para garantizar el proceso educativo de la Región Junín y resguardar la economía de los padres de familia | 1 | 2012-02-24 to 2012-02-24 |
+| `ordenanza-regional-123-2012-grj-cr` | Ordenanza Regional N° 123-2012-GRJ/CR: Declaran el 2012 como "Año de la Movilización por la Alfabetización Regional" | 1 | 2012-02-19 to 2012-02-19 |
+| `ordenanza-regional-120-2011-grj-cr` | Ordenanza Regional N° 120-2011-GRJ/CR: Aprueban la habilitación vehicular  por sustitución a los vehículos automóviles colectivos de la categoría M1 por M1 | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-122-2011-grj-cr` | Ordenanza Regional N° 122-2011-GRJ/CR: Aprueban Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-121-2011-grj-cr` | Ordenanza Regional N° 121-2011-GRJ/CR: Aprueban incorporación de normas complementarias sustentadas en el Reglamento Nacional de Administración de Transporte sobre Condiciones Técnicas Legales y de Operación exigibles a vehículos destinados al servicio público de transporte terrestre de pasajeros | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-119-2011-grj-cr` | Ordenanza Regional N° 119-2011-GRJ/CR: Derogan la Ordenanza N° 004-2003-GRJ/CR, aprueban la Institucionalización del Día de Aniversario de la Región Junín, ratifican el Logotipo Institucional y crean la Guardia de Honor del Gobierno Regional Junín | 1 | 2011-11-26 to 2011-11-26 |
+| `ordenanza-regional-118-2011-grj-cr` | Ordenanza Regional N° 118-2011-GRJ/CR: Crean la Comisión Ambiental de la Región Junín - CAR JUNÍN | 1 | 2011-09-05 to 2011-09-05 |
+| `ordenanza-regional-117-2011-grj-cr` | Ordenanza Regional N° 117-2011-GRJ/CR: Aprueban TUPA de la Dirección Regional de Salud - Junín | 1 | 2011-08-23 to 2011-08-23 |
+| `ordenanza-regional-116-2011-grj-cr` | Ordenanza Regional N° 116-2011-GRJ/CR: Crean el Consejo Regional de Derechos Humanos de Junín | 1 | 2011-08-22 to 2011-08-22 |
+| `ordenanza-regional-115-2011-grj-cr` | Ordenanza Regional N° 115-2011-GRJ/CR: Crean la Red Regional de Protección al Turista de Junín | 1 | 2011-07-17 to 2011-07-17 |
+| `ordenanza-regional-114-2011-grj-cr` | Ordenanza Regional N° 114-2011-GRJ/CR: Declaran la Región Junín como Región libre de transgénicos y centro de origen y domesticación de papas nativas, plantas aromáticas, medicinales, frutales y fauna nativas que presentan características específicas importantes para la Región Junín | 1 | 2011-06-24 to 2011-06-24 |
+| `ordenanza-regional-112-2011-grj-cr` | Ordenanza Regional N° 112-2011-GRJ/CR: Aprueban "Reglamento General del Proceso del Presupuesto Participativo Regional Basado en Resultados Multianual" del Gobierno Regional Junín | 1 | 2011-05-14 to 2011-05-14 |
+| `ordenanza-regional-109-2011-grj-cr` | Ordenanza Regional N° 109-2011-GRJ/CR: Aprueban modificación del literal c) del Artículo 93° del Reglamento Interno del Consejo Regional | 1 | 2011-05-14 to 2011-05-14 |
+| `ordenanza-regional-111-2011-grj-cr` | Ordenanza Regional N° 111-2011-GRJ/CR: Declaran de necesidad pública e interés regional en Junín la Soberanía de la Seguridad Agroalimentaria | 1 | 2011-05-14 to 2011-05-14 |
+| `ordenanza-regional-113-2011-grj-cr` | Ordenanza Regional N° 113-2011-GRJ/CR: Declaran de necesidad e interés regional el inicio de los estudios que determinen la ubicación del futuro Aeropuerto de categoría internacional de la Región Junín | 1 | 2011-05-14 to 2011-05-14 |
+| `ordenanza-regional-110-2011-grj-cr` | Ordenanza Regional N° 110-2011-GRJ/CR: Declaran de necesidad, utilidad pública e interés regional en Junín la creación e implementación del Eco - Parque Industrial del Valle del Mantaro | 1 | 2011-03-28 to 2011-03-28 |
+| `ordenanza-regional-108-2011-grj-cr` | Ordenanza Regional N° 108-2011-GRJ/CR: Declaran de interés, utilidad pública y necesidad regional la inversión privada, estableciendo compromisos para el desarrollo de sus actividades en la Región Junín | 1 | 2011-03-10 to 2011-03-10 |
+| `ordenanza-regional-107-2011-grj-cr` | Ordenanza Regional N° 107-2011-GRJ/CR: Crean la Unidad de Gestión de Conflictos Sociales del Gobierno Regional Junín | 1 | 2011-03-03 to 2011-03-03 |
+| `ordenanza-regional-106-2011-grj-cr` | Ordenanza Regional N° 106-2011-GRJ/CR: Declaran de necesidad pública e interés regional la creación del Área de Conservación Regional del Ecosistema de la Cordillera del Huaytapallana | 1 | 2011-02-13 to 2011-02-13 |
+| `ordenanza-regional-103-2011-grj-cr` | Ordenanza Regional N° 103-2011-GRJ/CR: Derogan las Ordenanzas Regionales N°s. 095 y 099-2009-GRJ/CR | 1 | 2011-01-24 to 2011-01-24 |
+| `ordenanza-regional-105-2011-grj-cr` | Ordenanza Regional N° 105-2011-GRJ/CR: Declaran el año 2011 como "Año del Centenario del nacimiento del Amauta José María Arguedas" | 1 | 2011-01-24 to 2011-01-24 |
+| `ordenanza-regional-101-2010-grj-cr` | Ordenanza Regional N° 101-2010-GRJ/CR: Modifican artículo 27° del Reglamento General del Proceso de Programación del Presupuesto Participativo Junín - Multianual | 1 | 2010-08-14 to 2010-08-14 |
+| `ordenanza-regional-099-2009-grj-cr` | Ordenanza Regional N° 099-2009-GRJ/CR: Modifican Reglamento de Organización y Funciones y aprueban el Cuadro de Asignación de Personal del Gobierno Regional | 1 | 2010-04-01 to 2010-04-01 |
 
-The build made 186 commits:
+The build made 259 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 186 | first version of an act |
+| 259 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 186 laws in the record.
-- 372 tags.
+- 259 laws in the record.
+- 518 tags.
 
 ## Dates
 
@@ -226,13 +299,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1d26e9bbce40a699b8374964c81326468f1c664b712333faa7e4b193bd305101` (2062741 bytes).
+- Corpus: sha256 `95b93d17dbc1209a95d064071d976c7dbc924b8b126f69536ab94a10f147ccb5` (2815115 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-186 versions of 186 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

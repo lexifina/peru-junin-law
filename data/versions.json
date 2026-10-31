@@ -2604,6 +2604,1028 @@
      "sha256": "224f6a99861a6c0c74cebf98f15a4d09211f9742f295e4aa09965ef4a67e1e96"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-348-grj-cr",
+   "short": "Ordenanza Regional N° 348-GRJ/CR",
+   "title": "Ordenanza Regional N° 348-GRJ/CR: Ordenanza Regional que aprueba el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2005251-1",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7HzN03jL4pK9ghQPZ-GbHI/*/2005251-1.pdf",
+     "sha256": "99cc41ba28fd0f0498b11fe9db904d92050034149a8a3491d214ccb4f9fe1615"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-345-2021-grj-cr",
+   "short": "Ordenanza Regional N° 345-2021-GRJ/CR",
+   "title": "Ordenanza Regional N° 345-2021-GRJ/CR: Ordenanza que rechaza el inicio de clases presenciales y semi presenciales del servicio educativo del año escolar 2021 en la Región Junin en salvaguarda de la salud de la comunidad educativa y la población de nuestra jurisdicción",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1965418-1",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6LzAIiN_qhyA3CTCXwSROE/*/1965418-1.pdf",
+     "sha256": "220b03d500bdc7f99f5411216069e519a118f806ae068f2002755831b6041344"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-332-grj-cr",
+   "short": "Ordenanza Regional N° 332-GRJ/CR",
+   "title": "Ordenanza Regional N° 332-GRJ/CR: Aprueban el “Reglamento de Aplicación de la Zonificación Ecológica Económica del Departamento de Junín\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1901683-1",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9Ps0bepY4Zl8gjk7iU73Rc/*/1901683-2.pdf",
+     "sha256": "a02e29fd8896523468f0cc771d270b6d396fe012260a6d88040dd1c6a12edaf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-328-grj-cr",
+   "short": "Ordenanza Regional N° 328-GRJ/CR",
+   "title": "Ordenanza Regional N° 328-GRJ/CR: Modifican el Reglamento Interno del Consejo Regional del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1868761-1",
+   "versions": [
+    {
+     "from": "2020-06-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7KsKsyvWaT79o9EuKPZpiB/*/1868761-1.pdf",
+     "sha256": "986a3fadc9f0536db8bbd9f5939fd03e1e8034878cc4ef39ee5d0bcbfb26faad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-319-grj-cr",
+   "short": "Ordenanza Regional N° 319-GRJ/CR",
+   "title": "Ordenanza Regional N° 319-GRJ/CR: Aprueban modificación parcial del Reglamento de Organización y Funciones - ROF de la Dirección Regional de Salud Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1851287-1",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4zVMdQJoKrNAaduy1-otvL/*/1851287-1.pdf",
+     "sha256": "4f878e9693b69cb0587b024ec7a9ec4ae93a8fa5d816f0f8cdf7fad71e2fea98"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-312-grj-cr",
+   "short": "Ordenanza Regional N° 312-GRJ/CR",
+   "title": "Ordenanza Regional N° 312-GRJ/CR: Ordenanza Regional que declara la institucionalización del Día 6 de Agosto como día cívico y feriado no laborable en la Región Junín en conmemoración a la Batalla de Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1793587-1",
+   "versions": [
+    {
+     "from": "2019-08-03",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3v9rUzOHKUR8GzQmCBzfBD/*/1793587-2.pdf",
+     "sha256": "5f9a9debd90ca64505628fc6f5568c2ce69916df7ac4c687e87ba060afefb93e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-303-grj-cr",
+   "short": "Ordenanza Regional N° 303-GRJ/CR",
+   "title": "Ordenanza Regional N° 303-GRJ/CR: Aprueban institucionalización del Aniversario de creación del departamento de Junín el 13 de setiembre, así como el Día de la Mujer el 8 de marzo de cada año, declarando feriado no laborable en el ámbito de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1747187-1",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DGu8TEHjaDM8ZyIyyVEfhN/*/1747187-1.pdf",
+     "sha256": "9eb456edb58cf761a4b098900d35b5a0037f787c620072e6704d161ae06ae4a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-298-grj-cr",
+   "short": "Ordenanza Regional N° 298-GRJ/CR",
+   "title": "Ordenanza Regional N° 298-GRJ/CR: Modifican el Artículo Primero de la Ordenanza Regional N° 243-GRJ/CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1740388-1",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ApSvaMDG4Bd82qjY35B_Em/*/1740388-1.pdf",
+     "sha256": "a7e2bab4e1641de08cb0c9980d19951d11e3d6801e6241bd5556db8633f8d005"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-292-grj-cr",
+   "short": "Ordenanza Regional N° 292-GRJ/CR",
+   "title": "Ordenanza Regional N° 292-GRJ/CR: Ordenanza que aprueba los Instrumentos de Gestión del Área de Conservación Regional Huaytapallana",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1671350-1",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BZ2OC2TJazpAD-Ef2aWeVq/*/1671350-1.pdf",
+     "sha256": "cf8e97bca0b055feb525d9a028618a950b2768c7c91f53c5180b9671f0699c61"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-290-grj-cr",
+   "short": "Ordenanza Regional N° 290-GRJ/CR",
+   "title": "Ordenanza Regional N° 290-GRJ/CR: Ordenanza Regional que ratifica el Plan Regional de Seguridad Ciudadana y de Convivencia Social Junín 2018",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1670310-1",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0GBf8nafKR5BuDDzi3HrEi/*/1670310-1.pdf",
+     "sha256": "50212303c1acc534e8468bf185837d48f45ffee972307cb56c10014d1ebde502"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-285-grj-cr",
+   "short": "Ordenanza Regional N° 285-GRJ/CR",
+   "title": "Ordenanza Regional N° 285-GRJ/CR: Aprueban el Reglamento del Comité Ejecutivo Regional con Oportunidades",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1619199-1",
+   "versions": [
+    {
+     "from": "2018-02-24",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3Lr9o-GfKu9AekIRSzJFiy/*/1619199-1.pdf",
+     "sha256": "ab6f72bdb6039fe32f39866dec46dcdc1bfdcfac5b6cf5196a3d463017a8cbda"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-229-grj-cr",
+   "short": "Ordenanza Regional N° 229-GRJ/CR",
+   "title": "Ordenanza Regional N° 229-GRJ/CR: Aprueban la Constitución de la “Mancomunidad Regional Pacífico Centro Amazónica” y el Estatuto",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1346849-1",
+   "versions": [
+    {
+     "from": "2016-02-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FPi3Jq8RKcj8UpqNsv6aHO/*/1346849-1.pdf",
+     "sha256": "9e4ba02b2a38dbaf11e97ceff4327008f74ce3386b2dc99ac3c49b02a62964a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-197-grj-cr",
+   "short": "Ordenanza Regional N° 197-GRJ/CR",
+   "title": "Ordenanza Regional N° 197-GRJ/CR: Declaran al \"Señor de Muruhuay de la Diócesis de Tarma\" como Patrono de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1250094-2",
+   "versions": [
+    {
+     "from": "2015-06-14",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1Eig6PAKKT3B_3fs6hwfuL/*/1250094-2.pdf",
+     "sha256": "d3d74e22315df2447a9d78489da7396dbc3d089ffe360ebcb28ac4dd5781e6da"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-199-grj-cr",
+   "short": "Ordenanza Regional N° 199-GRJ/CR",
+   "title": "Ordenanza Regional N° 199-GRJ/CR: Ordenanza Regional que aprueba el Cuadro de Asignación de Personal - CAP Provisional de la Red de Salud de Satipo y Hospital \"Manuel Higa Arakaki\" - Satipo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1245906-1",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9VaMWd8CKrhAuLz_Osaau8/*/1245906-1.pdf",
+     "sha256": "9ee44f2acac2aecaa7a7c9bd4287bc5aafe6faa402f6cbfb4a3cd5d3272683ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-189-2014-grj-cr",
+   "short": "Ordenanza Regional N° 189-2014-GRJ/CR",
+   "title": "Ordenanza Regional N° 189-2014-GRJ/CR: Ordenanza Regional que aprueba la Estrategia Regional del Cambio Climático de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1239046-1",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5Vj5nUlF4dZBzTpq4btq01/*/1239046-1.pdf",
+     "sha256": "55891f9caed8471ed874f9cfbc47dbf699cbe23db3524ad32ee4c0c334b1d785"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-190-2014-grj-cr",
+   "short": "Ordenanza Regional N° 190-2014-GRJ/CR",
+   "title": "Ordenanza Regional N° 190-2014-GRJ/CR: Ordenanza Regional que aprueba la Estrategia Regional de Diversidad Biológica al 2021 y Plan de Acción 2015-2018 de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1230474-1",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BzuPySD2qD99bKmv2mPSee/*/1230474-1.pdf",
+     "sha256": "2902fbf8bc0729c37f614c117dcf44d255b7ccaa0427f9656d80e2c782b716e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-195-2014-grj-cr",
+   "short": "Ordenanza Regional N° 195-2014-GRJ/CR",
+   "title": "Ordenanza Regional N° 195-2014-GRJ/CR: Ordenanza Regional que Declara de Necesidad Pública e Interés Regional  la Creación  del Área de Conservación Regional \"Cordillera San Cristóbal de Pucuta (Toldopampa)\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1230474-3",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ACpSJ07LKiO8-9R42TYDAy/*/1230474-3.pdf",
+     "sha256": "ea09ece239326a9b4a9334072f7fcdd63a2448b44f1ebe91bd3e994d28903fd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-194-2014-grj-cr",
+   "short": "Ordenanza Regional N° 194-2014-GRJ/CR",
+   "title": "Ordenanza Regional N° 194-2014-GRJ/CR: Ordenanza Regional que aprueba los Instrumentos de Gestión Ambiental: Política, Plan de Acción y Agenda Ambiental Regional de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1230474-2",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6LN5-Zgb4Ui8t034SvQFe-/*/1230474-2.pdf",
+     "sha256": "e53d9e72ec84dac77e3e5eea86f779190c6b201cf92f56040a34487c375266c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-172-2013-grj-cr",
+   "short": "Ordenanza Regional N° 172-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 172-2013-GRJ/CR: Establecen las unidades responsables de la fiscalización, de los procedimientos y de la aplicación de las sanciones por las infracciones a la Ley de Seguridad y Salud en el Trabajo de los Estibadores Terrestres y Transportistas Manuales.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1031798-2",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1RutlKBA4-79S0ykHQ8mkz/*/1031798-2.pdf",
+     "sha256": "16800d8d739d623815826a42a387633ed2bdbd583d29302c77888c97a1739c7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-170-2013-grj-cr",
+   "short": "Ordenanza Regional N° 170-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 170-2013-GRJ/CR: Aprueban el Plan Regional de Igualdad de Género 2013-2017 de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1028687-1",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/53DvcpJv4ghA1sYZMAe3TA/*/1028687-1.pdf",
+     "sha256": "bd4f9898ad4e6186a78e025c7e50725eeea1767710dd2dd4a196c0b6cf2a3331"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-166-2013-grj-cr",
+   "short": "Ordenanza Regional N° 166-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 166-2013-GRJ/CR: Aprueban Cuadro de Asignación para Personal -CAP de la Dirección Regional de Energía y Minas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1024164-1",
+   "versions": [
+    {
+     "from": "2013-12-08",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0iILYpRnaZEAUof68Ql4sQ/*/1024164-1.pdf",
+     "sha256": "01da4a9d48f3fe4415a9e2e1a9769d662006420b56dd464e598c5364ccedbd52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-169-2013-grj-cr",
+   "short": "Ordenanza Regional N° 169-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 169-2013-GRJ/CR: Aprueban el Cuadro de Asignación para Personal - CAP de la Dirección Regional de la Producción",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1019341-1",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DH2asIoEKUUARgHHrJsacR/*/1019341-1.pdf",
+     "sha256": "f3605004c83ba0cba633f94e152dab976737b97676f06b9b2ebbeed1cb1fe377"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-167-2013-grj-cr",
+   "short": "Ordenanza Regional N° 167-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 167-2013-GRJ/CR: Declaran de Necesidad e Interés Regional el Desarrollo  y Administración  del Gran  Aeródromo Wanka",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/999739-3",
+   "versions": [
+    {
+     "from": "2013-10-16",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0PjRX2h1ar4AJkZbBD-dmv/*/999739-3.pdf",
+     "sha256": "6f88c76dc2af304064915aad56b163dd9dbaf60837c689f688e6d95ed94f0e37"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-160-2013-grj-cr",
+   "short": "Ordenanza Regional N° 160-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 160-2013-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Dirección Regional de Comercio Exterior y Turismo Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/951074-1",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9-4IBd1qKFpBfjI308pWt2/*/951074-1.pdf",
+     "sha256": "9817649db15751f3f454a16bbeb3cd3c00324920c9cc4b4e14e517f8b0d20139"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-161-2013-grj-cr",
+   "short": "Ordenanza Regional N° 161-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 161-2013-GRJ/CR: Modifican la Ordenanza Regional N° 139-2012-GRJ/CR, que aprueba el Texto Único de Procedimientos Administrativos - TUPA de la Sede del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/947514-1",
+   "versions": [
+    {
+     "from": "2013-06-11",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/37M1fLXua80Byt6eTnoM5v/*/947514-1.pdf",
+     "sha256": "9aad8c1f5faac87e897c997694d680434b58baca12f6c32cf807e9d980b8e417"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-162-2013-grj-cr",
+   "short": "Ordenanza Regional N° 162-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 162-2013-GRJ/CR: Aprueban el  Cuadro para Asignación de Personal de la Dirección Regional de Salud",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/947519-1",
+   "versions": [
+    {
+     "from": "2013-06-10",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4D-sX78RKWH9UQ9-6dorJz/*/947519-1.pdf",
+     "sha256": "e9a1e48e39d0fe828d4fe943b06c60a17b6cb40da33953a45da6e84855453a58"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-159-2013-grj-cr",
+   "short": "Ordenanza Regional N° 159-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 159-2013-GRJ/CR: Derogan artículo tercero de la Ordenanza Regional N° 108-2011-GRJ/CR que declara de interés, utilidad pública y de necesidad regional la inversión privada, estableciendo compromisos para el desarrollo de sus actividades en la Región Junín.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/940430-1",
+   "versions": [
+    {
+     "from": "2013-05-25",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2gpFwWKyqfyAPi7YNhd6Ti/*/940430-1.pdf",
+     "sha256": "2a2537ce9de073b8c508676847e10da5ace755b249ad2ddc50ec0df56fb40c05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-157-2013-grj-cr",
+   "short": "Ordenanza Regional N° 157-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 157-2013-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Dirección Regional de Salud Junín y sus Unidades Ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/933870-1",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1RqkWmfpaqt8xs8r5dq2vy/*/933870-1.pdf",
+     "sha256": "10edfd241760613b3c3007bc758b3d11a15b6b193a63d136fcc9e7fe8579e964"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-158-2013-grj-cr",
+   "short": "Ordenanza Regional N° 158-2013-GRJ/CR",
+   "title": "Ordenanza Regional N° 158-2013-GRJ/CR: Declaran el 2013 como \"Año de la Promoción de los Derechos Culturales y del Fomento Agrario para los Pueblos de Junín\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/912668-1",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DiP7tyI4K2U83w46rMBMXc/*/912668-1.pdf",
+     "sha256": "7bb455858ba354c337c292b3f378d50b9a84fbfbea1cc2a7e088aba017bb6411"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-156-2012-grj-cr",
+   "short": "Ordenanza Regional N° 156-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 156-2012-GRJ/CR: Aprueban actualización del Plan Regional Concertado de Salud, Junín 2013-2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883942-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FUOh8Qd4KYmBv9D5d2h_3Q/*/883942-1.pdf",
+     "sha256": "78dbcb6b885ba2fffe8182b853dfa3a3420c34d717b33f9c8b40b1fbfbb32073"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-155-2012-grj-cr",
+   "short": "Ordenanza Regional N° 155-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 155-2012-GRJ/CR: Disponen la \"Institucionalización del Programa Regional de Voluntariado\" en el ámbito de la Región Junín, y crean el Registro Regional del Programa de Voluntarios",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883894-4",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C4QptyfgKRH8fyW_BtiW-8/*/883894-4.pdf",
+     "sha256": "0167dbf47b1bdc35fdcfa1b1002eeace84705608bb308ea17c01e136933b3e2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-153-2012-grj-cr",
+   "short": "Ordenanza Regional N° 153-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 153-2012-GRJ/CR: Declaran el 23 de junio de todos los años como \"Día de la Conmemoración en honor de Don Juan Santos Atahualpa\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883894-2",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DaqLxW1nqnx8Zn5juhuZVg/*/883894-2.pdf",
+     "sha256": "0af90d69b9e1bec78a9b0e37f13a7b8f982138fa105d9bcb41794690e1dcf7fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-154-2012-grj-cr",
+   "short": "Ordenanza Regional N° 154-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 154-2012-GRJ/CR: Declaran de interés regional la atención e implementación del \"Programa Junín con Oportunidades\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883894-3",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6Qyl1zn34mZ8-nLFhTpPlu/*/883894-3.pdf",
+     "sha256": "44f0f6ebcaf814f996c86e047fca1cbfb65bc63a464b4814b9a1d7cbb133c488"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-152-2012-grj-cr",
+   "short": "Ordenanza Regional N° 152-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 152-2012-GRJ/CR: Modifican la Ordenanza N° 081-2008-GRJ/CR que crea el Instituto Regional del Café - IRC",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883894-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FElTXIMXKCi9dg0MzRrIc0/*/883894-1.pdf",
+     "sha256": "80574ddc58bb1eb04237850bd2eef4e192040b36ca2f93523c6a1fe503f026c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-149-2012-grj-cr",
+   "short": "Ordenanza Regional N° 149-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 149-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883892-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9TG48R0pqixAaOjaRAxUoz/*/883892-1.pdf",
+     "sha256": "2e488f231511a0da5e78d8f2c183174f89016679aadfede92065204f26657093"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-150-2012-grj-cr",
+   "short": "Ordenanza Regional N° 150-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 150-2012-GRJ/CR: Aprueban Cuadro de Asignación para Personal de la Dirección Regional de Vivienda, Construcción y Saneamiento - Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/883893-1",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3cbjHhJIaZHBPmGRHY0m1i/*/883893-1.pdf",
+     "sha256": "29955ca8f9815aed9688efecd1ccd97f2e63f2b9356f8b121ad1147bfb43e74d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-151-2012-grj-cr",
+   "short": "Ordenanza Regional N° 151-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 151-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Energía y Minas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/878608-1",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5yNbXpriKie93NUqfS72pX/*/878608-1.pdf",
+     "sha256": "d8a2f5f4125ce4580d0952c798bf7946aa00ccdb20471bbd047336e06c23c378"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-148-2012-grj-cr",
+   "short": "Ordenanza Regional N° 148-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 148-2012-GRJ/CR: Aprueban la asignación del cinco por ciento a las víctimas de la violencia política en los procesos de selección de personal del Gobierno Regional Junín.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/876372-1",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6ZuZAKWIq9g9fAJuUdTWgZ/*/876372-1.pdf",
+     "sha256": "c74a64592b3f891fc95a85fca18b149923cb8fb19876b33d4faea24dafd53fab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-147-2012-grj-cr",
+   "short": "Ordenanza Regional N° 147-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 147-2012-GRJ/CR: Aprueban Institucionalización del Concurso de Cuentos, Leyendas, Mitos y Fábulas de la Región Junín que se llevará cada año en el ámbito de la Dirección Regional de Educación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/875138-1",
+   "versions": [
+    {
+     "from": "2012-12-09",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4d4s1vOLq6Q8AmsMoIrUNK/*/875138-1.pdf",
+     "sha256": "7cded7783d0584d7ce3e95a93222d62e222fe02de8f9b1064d768d45f791bff3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-146-2012-grj-cr",
+   "short": "Ordenanza Regional N° 146-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 146-2012-GRJ/CR: Declaran de prioridad y como Política de Gestión Pública Regional la Lucha contra la Corrupción para el desarrollo regional y crean el Consejo Regional Anticorrupción de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/875137-1",
+   "versions": [
+    {
+     "from": "2012-12-09",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/52TV6bSoKk-8LNhkJWDoj4/*/875137-1.pdf",
+     "sha256": "71e3fecdcea871b128b1ad6eb521cf2f41396f6515e59bfbab16abe5debd0b76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-144-2012-grj-cr",
+   "short": "Ordenanza Regional N° 144-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 144-2012-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Aldea Infantil  \"El Rosario\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/867612-1",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DqCk6kBBa7DAsW-51FCQ51/*/867612-1.pdf",
+     "sha256": "9414c64127de1eff30f959f8b30c0809c849ab395fb2558c77e6ba1e6ade4cee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-145-2012-grj-cr",
+   "short": "Ordenanza Regional N° 145-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 145-2012-GRJ/CR: Autorizan la emisión de Certificados contra Accidentes de Tránsito - CAT, y amplía la cobertura a las Asociaciones de Fondos contra Accidentes de Tránsito - AFOCATs",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/867610-1",
+   "versions": [
+    {
+     "from": "2012-11-18",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6iqIMIR648w8e4GZEVF2gX/*/867610-1.pdf",
+     "sha256": "c4a41cfc528b3416e80b69f2d2b8ae1fcd284716f708f68484c6f10f3e84b44a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-141-2012-grj-cr",
+   "short": "Ordenanza Regional N° 141-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 141-2012-GRJ/CR: Declaran de interés y necesidad pública regional la atención prioritaria especializada a personas afectadas por la contaminación ambiental, en la provincia de Yauli y otras afectadas de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/840836-1",
+   "versions": [
+    {
+     "from": "2012-09-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CL6zkvgU4et8D7s03j9Gvw/*/840836-1.pdf",
+     "sha256": "741d1a99e2a100f7023db876af1bd9251d118001b13d5075df6acef4f2e01eb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-137-2012-grj-cr",
+   "short": "Ordenanza Regional N° 137-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 137-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Aldea Infantil  \"El Rosario\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/834898-1",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/78-y31IYaoH8IwUGpV5QOU/*/834898-1.pdf",
+     "sha256": "a6ba9adec6c801df7c8482d86b5c2602eff8c85daa18ee6f4b579ed582d2bce2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-136-2012-grj-cr",
+   "short": "Ordenanza Regional N° 136-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 136-2012-GRJ/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Vivienda, Construcción y Saneamiento - Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/828792-1",
+   "versions": [
+    {
+     "from": "2012-08-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C_FoSU5v4889E7i3aZ4t-U/*/828792-1.pdf",
+     "sha256": "1e41a441e0d8c2fadf777fdee98dae9a7bd739408ade288ca6dfe7289928dc8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-135-2012-grj-cr",
+   "short": "Ordenanza Regional N° 135-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 135-2012-GRJ/CR: Aprueban el Cuadro de Asignación de Personal - CAP de la Dirección Regional de Transportes y Comunicaciones Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/819347-1",
+   "versions": [
+    {
+     "from": "2012-07-28",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7If3h5tk4kGB6PWFYOfL-_/*/819347-1.pdf",
+     "sha256": "ade9400ef433a9b5da20b0b2df765c9040b75bfac55be1f179762e74062a49bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-134-2012-grj-cr",
+   "short": "Ordenanza Regional N° 134-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 134-2012-GRJ/CR: Aprueban Cuadro de Asignación de Personal - CAP de la Sede del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/817443-1",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BXxq0eUHar28WMyEXB7nqj/*/817443-1.pdf",
+     "sha256": "b71c558c9dc25fb315f1658361cb414b22f8a016c8c4cd594e2a25a9e18cf2ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-129-2012-grj-cr",
+   "short": "Ordenanza Regional N° 129-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 129-2012-GRJ/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones - Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/782813-1",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E_wOx4bb4wr9dUxaG96lzM/*/782813-1.pdf",
+     "sha256": "6128b1bb82e93e5d24875df4a9db95a6e0363af827519ed9fa61ebdd94f6efd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-130-2012-grj-cr",
+   "short": "Ordenanza Regional N° 130-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 130-2012-GRJ/CR: Aprueban Reglamento Interno del Consejo Regional del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/782812-1",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7Md5Fr22qB7BKwduSQH6YX/*/782812-1.pdf",
+     "sha256": "ba7ddc2456d32729ab0734bdce721f1178ba2c42aaa3e41bf8fbf5600c86f1b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-125-2012-grj-cr",
+   "short": "Ordenanza Regional N° 125-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 125-2012-GRJ/CR: Aprueban la institucionalización de la Campaña del Bueno Inicio del Año Escolar en la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/754984-2",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DJ4FLEtB4agAVNLpHVcaT6/*/754984-2.pdf",
+     "sha256": "20ad061a13f38db2661aef17b38502040ae29275c705b7c44a3dadb858d99ce9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-124-2012-grj-cr",
+   "short": "Ordenanza Regional N° 124-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 124-2012-GRJ/CR: Disponen medidas para garantizar el proceso educativo de la Región Junín y resguardar la economía de los padres de familia",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/754984-1",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CfpY9Yum4y89WNo6LvpY_F/*/754984-1.pdf",
+     "sha256": "90e361c21797e7b547635300000fe7a41672758d34b1ef9a5ca4455a0e87a6b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-123-2012-grj-cr",
+   "short": "Ordenanza Regional N° 123-2012-GRJ/CR",
+   "title": "Ordenanza Regional N° 123-2012-GRJ/CR: Declaran el 2012 como \"Año de la Movilización por la Alfabetización Regional\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/753536-1",
+   "versions": [
+    {
+     "from": "2012-02-19",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EfN0s1YZqr487N0B-3GqO3/*/753536-1.pdf",
+     "sha256": "698f483fe9114cb61f9f539c2bc5121c8221f46b546482e4f7dc3e3a067736ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-120-2011-grj-cr",
+   "short": "Ordenanza Regional N° 120-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 120-2011-GRJ/CR: Aprueban la habilitación vehicular  por sustitución a los vehículos automóviles colectivos de la categoría M1 por M1",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/734576-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D_YuI0Npaog8T2ZEOZqDRp/*/734576-1.pdf",
+     "sha256": "dc4cfdb60f59de3ec8186d4d5763ec435849b453b611e993037f79ccc65bc8a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-122-2011-grj-cr",
+   "short": "Ordenanza Regional N° 122-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 122-2011-GRJ/CR: Aprueban Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/734576-3",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7qegasN9aPfBeChR5lL_VJ/*/734576-3.pdf",
+     "sha256": "01639464981f08704f755aee15392c3674df814b1f4f3864e61e90cf6a032226"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-121-2011-grj-cr",
+   "short": "Ordenanza Regional N° 121-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 121-2011-GRJ/CR: Aprueban incorporación de normas complementarias sustentadas en el Reglamento Nacional de Administración de Transporte sobre Condiciones Técnicas Legales y de Operación exigibles a vehículos destinados al servicio público de transporte terrestre de pasajeros",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/734576-2",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7MaaHfY2a3GAjU_1nC8TvS/*/734576-2.pdf",
+     "sha256": "0bb55b9de349c79f6910324264901c7829d819d472a50ff53123f0c57aadf99b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-119-2011-grj-cr",
+   "short": "Ordenanza Regional N° 119-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 119-2011-GRJ/CR: Derogan la Ordenanza N° 004-2003-GRJ/CR, aprueban la Institucionalización del Día de Aniversario de la Región Junín, ratifican el Logotipo Institucional y crean la Guardia de Honor del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/720257-1",
+   "versions": [
+    {
+     "from": "2011-11-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6-2JsJIg4Kl9Flofq63tyo/*/720257-1.pdf",
+     "sha256": "326a209ceb1e3786fff685a4dd5f0e0b5b5bb374fad9f387403f5b2a19367f64"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-118-2011-grj-cr",
+   "short": "Ordenanza Regional N° 118-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 118-2011-GRJ/CR: Crean la Comisión Ambiental de la Región Junín - CAR JUNÍN",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/680369-2",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/13BBNQWsKt292_Sr7jyhCX/*/680369-2.pdf",
+     "sha256": "b0f6aeddca2d85ddc3651e2f18220201d3ac8490d0fcac4ab9f58844f02d3041"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-117-2011-grj-cr",
+   "short": "Ordenanza Regional N° 117-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 117-2011-GRJ/CR: Aprueban TUPA de la Dirección Regional de Salud - Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/680370-1",
+   "versions": [
+    {
+     "from": "2011-08-23",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9yh9sY0JqGZ9-ulZLCTydd/*/680370-1.pdf",
+     "sha256": "0bc44fb0be8e40187f67603ebc99e488fdded1cd7b1dd061422892cfc04881c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-116-2011-grj-cr",
+   "short": "Ordenanza Regional N° 116-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 116-2011-GRJ/CR: Crean el Consejo Regional de Derechos Humanos de Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/680369-1",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/49HLQJOeag48GrDFX110d0/*/680369-1.pdf",
+     "sha256": "211e6a01f66f1051f15e7b9dee09c5c6bb5e385022e96094be6c04737b2e823c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-115-2011-grj-cr",
+   "short": "Ordenanza Regional N° 115-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 115-2011-GRJ/CR: Crean la Red Regional de Protección al Turista de Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/665493-1",
+   "versions": [
+    {
+     "from": "2011-07-17",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DGeWKhkoqCqB6K0IUIP9zQ/*/665493-1.pdf",
+     "sha256": "cba517db2fdf42e3f338dfd2a84e693145e48214b61ed8c5c3ca127f2092adc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-114-2011-grj-cr",
+   "short": "Ordenanza Regional N° 114-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 114-2011-GRJ/CR: Declaran la Región Junín como Región libre de transgénicos y centro de origen y domesticación de papas nativas, plantas aromáticas, medicinales, frutales y fauna nativas que presentan características específicas importantes para la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/656005-1",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/79sKR4hZ4Z3BG_psvA9lnH/*/656005-1.pdf",
+     "sha256": "b6814860b4e726335ba6bd15937979c024c8988558bec795a74dff367063aaf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-112-2011-grj-cr",
+   "short": "Ordenanza Regional N° 112-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 112-2011-GRJ/CR: Aprueban \"Reglamento General del Proceso del Presupuesto Participativo Regional Basado en Resultados Multianual\" del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/638663-1",
+   "versions": [
+    {
+     "from": "2011-05-14",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CySgQf24a4w91rruP_DSYr/*/638663-1.pdf",
+     "sha256": "9738cec559021cbc463f4dead7e6864565b715a62cbb66c1a0f0a7f459f49781"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-109-2011-grj-cr",
+   "short": "Ordenanza Regional N° 109-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 109-2011-GRJ/CR: Aprueban modificación del literal c) del Artículo 93° del Reglamento Interno del Consejo Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/638661-1",
+   "versions": [
+    {
+     "from": "2011-05-14",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BT5_MHpUqCiAFl5BCdcr4u/*/638661-1.pdf",
+     "sha256": "0321b0753a173f5829268b053ef021d9bf36d0d0ce1c5192fec1f1123648d957"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-111-2011-grj-cr",
+   "short": "Ordenanza Regional N° 111-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 111-2011-GRJ/CR: Declaran de necesidad pública e interés regional en Junín la Soberanía de la Seguridad Agroalimentaria",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/638661-2",
+   "versions": [
+    {
+     "from": "2011-05-14",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/18Ak91Z3470BQqzDGtVo-a/*/638661-2.pdf",
+     "sha256": "632fa5330654e32366265213053e76304b3cdce7c925a2b89681c392a38e7457"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-113-2011-grj-cr",
+   "short": "Ordenanza Regional N° 113-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 113-2011-GRJ/CR: Declaran de necesidad e interés regional el inicio de los estudios que determinen la ubicación del futuro Aeropuerto de categoría internacional de la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/638661-3",
+   "versions": [
+    {
+     "from": "2011-05-14",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3wl7Y4z-qgDBuOpc8MFtTK/*/638661-3.pdf",
+     "sha256": "0633aa69a869a03845dbe26676efa91ba7e9e9bc7748afcc1a90b7602ad8ac2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-110-2011-grj-cr",
+   "short": "Ordenanza Regional N° 110-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 110-2011-GRJ/CR: Declaran de necesidad, utilidad pública e interés regional en Junín la creación e implementación del Eco - Parque Industrial del Valle del Mantaro",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/619658-1",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DIrzTh7daUmA5cdRy5i_Yi/*/619658-1.pdf",
+     "sha256": "922f75836404e20cf969310ff97a11d1790ca69c6abb49fbe56c3c2a887b49d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-108-2011-grj-cr",
+   "short": "Ordenanza Regional N° 108-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 108-2011-GRJ/CR: Declaran de interés, utilidad pública y necesidad regional la inversión privada, estableciendo compromisos para el desarrollo de sus actividades en la Región Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/610561-1",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7CT_Ybix4L18nNuDu6-y_N/*/610561-2.pdf",
+     "sha256": "620cb55189d222d26ddb9ad3426a1bec3012da6a934f08c8f2bc8dd144f49ee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-107-2011-grj-cr",
+   "short": "Ordenanza Regional N° 107-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 107-2011-GRJ/CR: Crean la Unidad de Gestión de Conflictos Sociales del Gobierno Regional Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/608042-1",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3prRkVOm4Qy9tubqk8Qb_n/*/608042-2.pdf",
+     "sha256": "68f4bc5b74ec20de27723b357cfce2459b740c242ed5a73dbf54a9068f988170"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-106-2011-grj-cr",
+   "short": "Ordenanza Regional N° 106-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 106-2011-GRJ/CR: Declaran de necesidad pública e interés regional la creación del Área de Conservación Regional del Ecosistema de la Cordillera del Huaytapallana",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/601851-1",
+   "versions": [
+    {
+     "from": "2011-02-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0CkFizCgK1E8HisubrRroY/*/601851-2.pdf",
+     "sha256": "a7f66c330d049509df2a1022aebccaa449b222610b29c3a58dfef87f6f946222"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-103-2011-grj-cr",
+   "short": "Ordenanza Regional N° 103-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 103-2011-GRJ/CR: Derogan las Ordenanzas Regionales N°s. 095 y 099-2009-GRJ/CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/592685-2",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5-PFJ6R04QH9u3PqURlLVO/*/592685-2.pdf",
+     "sha256": "d8990b035fd7a032ea2b1c238586f369ddfd5d200d2749ad68717013c13aad51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-105-2011-grj-cr",
+   "short": "Ordenanza Regional N° 105-2011-GRJ/CR",
+   "title": "Ordenanza Regional N° 105-2011-GRJ/CR: Declaran el año 2011 como \"Año del Centenario del nacimiento del Amauta José María Arguedas\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/592685-4",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5AF02iHWa9VBVilPSE4Efz/*/592685-4.pdf",
+     "sha256": "678bb968739980e3248fd55e45305c0474b8b4d00916a0c25c59227a36212bcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-101-2010-grj-cr",
+   "short": "Ordenanza Regional N° 101-2010-GRJ/CR",
+   "title": "Ordenanza Regional N° 101-2010-GRJ/CR: Modifican artículo 27° del Reglamento General del Proceso de Programación del Presupuesto Participativo Junín - Multianual",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/529210-1",
+   "versions": [
+    {
+     "from": "2010-08-14",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9GuWmiBgqkfA9-rmk_A04d/*/529210-1.pdf",
+     "sha256": "91a9c26cbe1f1109c572a817e6537497503bb5887a345beaef06c973118c6348"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-099-2009-grj-cr",
+   "short": "Ordenanza Regional N° 099-2009-GRJ/CR",
+   "title": "Ordenanza Regional N° 099-2009-GRJ/CR: Modifican Reglamento de Organización y Funciones y aprueban el Cuadro de Asignación de Personal del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/475157-1",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5-UqEVPJanuAx8Qr12sGNb/*/475157-1.pdf",
+     "sha256": "0bb4b25fb38f2cd192e58cd46272960441717981ea6494ab18f1813927b7530a"
+    }
+   ]
   }
  ]
 }
