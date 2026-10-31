@@ -274,20 +274,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-105-2011-grj-cr` | Ordenanza Regional N° 105-2011-GRJ/CR: Declaran el año 2011 como "Año del Centenario del nacimiento del Amauta José María Arguedas" | 1 | 2011-01-24 to 2011-01-24 |
 | `ordenanza-regional-101-2010-grj-cr` | Ordenanza Regional N° 101-2010-GRJ/CR: Modifican artículo 27° del Reglamento General del Proceso de Programación del Presupuesto Participativo Junín - Multianual | 1 | 2010-08-14 to 2010-08-14 |
 | `ordenanza-regional-099-2009-grj-cr` | Ordenanza Regional N° 099-2009-GRJ/CR: Modifican Reglamento de Organización y Funciones y aprueban el Cuadro de Asignación de Personal del Gobierno Regional | 1 | 2010-04-01 to 2010-04-01 |
+| `ordenanza-regional-098-2009-grj-cr` | Ordenanza Regional N° 098-2009-GRJ/CR: Prohiben la Discriminación en todas sus formas en el ámbito del Gobierno Regional de Junín | 1 | 2010-01-31 to 2010-01-31 |
+| `ordenanza-regional-094-2009-grj-cr` | Ordenanza Regional N° 094-2009-GRJ/CR: Derogan Ordenanza Regional N° 018-GRJ/CR que aprobó el Estatuto del Consejo de Coordinación Regional - Junín | 1 | 2009-06-22 to 2009-06-22 |
 
-The build made 259 commits:
+The build made 261 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 259 | first version of an act |
+| 261 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 259 laws in the record.
-- 518 tags.
+- 261 laws in the record.
+- 522 tags.
 
 ## Dates
 
@@ -299,7 +301,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `95b93d17dbc1209a95d064071d976c7dbc924b8b126f69536ab94a10f147ccb5` (2815115 bytes).
+- Corpus: sha256 `999723d29f1ebfd384ace5af26668dd2594083038376922a026bfa4c347e7b13` (2831802 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

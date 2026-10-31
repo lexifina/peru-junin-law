@@ -308,6 +308,13 @@
     "ordenanza-regional-159-2013-grj-cr"
    ],
    "sha256": "f35b3a1d81213d4fa59551eb118f1f15c60b4ccd0f0227a16ade50d7962196de"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-094-2009-grj-cr",
+    "ordenanza-regional-098-2009-grj-cr"
+   ],
+   "sha256": "2376af6554bb91e4668ae4acec28025311c3dbc1b30588db9c78ac9d0f5b6d27"
   }
  },
  "schema": 1

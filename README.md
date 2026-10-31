@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-259 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+261 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -271,6 +271,8 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-105-2011-grj-cr/` | Ordenanza Regional N° 105-2011-GRJ/CR: Declaran el año 2011 como "Año del Centenario del nacimiento del Amauta José María Arguedas" | in force 24 January 2011 |
 | `ordenanza-regional-101-2010-grj-cr/` | Ordenanza Regional N° 101-2010-GRJ/CR: Modifican artículo 27° del Reglamento General del Proceso de Programación del Presupuesto Participativo Junín - Multianua… | in force 14 August 2010 |
 | `ordenanza-regional-099-2009-grj-cr/` | Ordenanza Regional N° 099-2009-GRJ/CR: Modifican Reglamento de Organización y Funciones y aprueban el Cuadro de Asignación de Personal del Gobierno Regional | in force 1 April 2010 |
+| `ordenanza-regional-098-2009-grj-cr/` | Ordenanza Regional N° 098-2009-GRJ/CR: Prohiben la Discriminación en todas sus formas en el ámbito del Gobierno Regional de Junín | in force 31 January 2010 |
+| `ordenanza-regional-094-2009-grj-cr/` | Ordenanza Regional N° 094-2009-GRJ/CR: Derogan Ordenanza Regional N° 018-GRJ/CR que aprobó el Estatuto del Consejo de Coordinación Regional - Junín | in force 22 June 2009 |
 
 ## Source
 

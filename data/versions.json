@@ -3626,6 +3626,34 @@
      "sha256": "0bb4b25fb38f2cd192e58cd46272960441717981ea6494ab18f1813927b7530a"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-098-2009-grj-cr",
+   "short": "Ordenanza Regional N° 098-2009-GRJ/CR",
+   "title": "Ordenanza Regional N° 098-2009-GRJ/CR: Prohiben la Discriminación en todas sus formas en el ámbito del Gobierno Regional de Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/451731-1",
+   "versions": [
+    {
+     "from": "2010-01-31",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3EoInCaB47i8YXnsFBJi4y/*/451731-1.pdf",
+     "sha256": "cb817b7ebdfb295cce3ed15b0a50998cf3459a2d0e4ac26496fc6f6db8c3d93a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-094-2009-grj-cr",
+   "short": "Ordenanza Regional N° 094-2009-GRJ/CR",
+   "title": "Ordenanza Regional N° 094-2009-GRJ/CR: Derogan Ordenanza Regional N° 018-GRJ/CR que aprobó el Estatuto del Consejo de Coordinación Regional - Junín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/362988-1",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5V_tBfS-qrb80R6vgWLsAu/*/362988-1.pdf",
+     "sha256": "8be6593073dcb8a1bacfc4df3210a5d6fbd85a0ff13a36a931952443936f3665"
+    }
+   ]
   }
  ]
 }
